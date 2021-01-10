@@ -1,0 +1,17 @@
+C:\Users\oercelik\source\repos\MarsRover\MarsRover\bin\Debug\MarsRover.exe.config
+C:\Users\oercelik\source\repos\MarsRover\MarsRover\bin\Debug\MarsRover.exe
+C:\Users\oercelik\source\repos\MarsRover\MarsRover\bin\Debug\MarsRover.pdb
+C:\Users\oercelik\source\repos\MarsRover\MarsRover\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\oercelik\source\repos\MarsRover\MarsRover\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\oercelik\source\repos\MarsRover\MarsRover\obj\Debug\MarsRover.csproj.CoreCompileInputs.cache
+C:\Users\oercelik\source\repos\MarsRover\MarsRover\obj\Debug\MarsRover.csproj.CopyComplete
+C:\Users\oercelik\source\repos\MarsRover\MarsRover\obj\Debug\MarsRover.exe
+C:\Users\oercelik\source\repos\MarsRover\MarsRover\obj\Debug\MarsRover.pdb
+C:\Users\oercelik\source\repos\MarsRover\MarsRover\bin\Debug\EntityFramework.dll
+C:\Users\oercelik\source\repos\MarsRover\MarsRover\bin\Debug\EntityFramework.Extended.dll
+C:\Users\oercelik\source\repos\MarsRover\MarsRover\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\oercelik\source\repos\MarsRover\MarsRover\bin\Debug\EntityFramework.xml
+C:\Users\oercelik\source\repos\MarsRover\MarsRover\bin\Debug\EntityFramework.Extended.xml
+C:\Users\oercelik\source\repos\MarsRover\MarsRover\bin\Debug\EntityFramework.Extended.dll.config
+C:\Users\oercelik\source\repos\MarsRover\MarsRover\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\oercelik\source\repos\MarsRover\MarsRover\obj\Debug\MarsRover.csprojAssemblyReference.cache
